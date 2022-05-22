@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\C#\\helloworld\\helloworld.csproj": {}
+    "D:\\Study\\C#Study\\数据结构和算法\\helloworld\\helloworld.csproj": {}
   },
   "projects": {
-    "D:\\Study\\C#\\helloworld\\helloworld.csproj": {
+    "D:\\Study\\C#Study\\数据结构和算法\\helloworld\\helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\C#\\helloworld\\helloworld.csproj",
+        "projectUniqueName": "D:\\Study\\C#Study\\数据结构和算法\\helloworld\\helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "D:\\Study\\C#\\helloworld\\helloworld.csproj",
+        "projectPath": "D:\\Study\\C#Study\\数据结构和算法\\helloworld\\helloworld.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\C#\\helloworld\\obj\\",
+        "outputPath": "D:\\Study\\C#Study\\数据结构和算法\\helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
