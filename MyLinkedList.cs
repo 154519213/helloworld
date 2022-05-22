@@ -48,7 +48,7 @@ public class MyLinkedList
             n.val = val;
             MyLinkedList o = head;
             head = n;
-            head.next = o;
+            head.next = o; 
             list.Insert(0, head);
             n = null;
         }
